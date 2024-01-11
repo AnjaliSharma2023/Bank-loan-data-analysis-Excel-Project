@@ -1,8 +1,8 @@
 BANK LOAN REPORT DDASHBOARD
 
 Objective:
-The primary objective of the Details Dashboard is to provide a comprehensive and user-friendly interface for accessing vital loan data. 
-It will serve as a one-stop solution for users seeking detailed insights into our loan portfolio, borrower profiles, and loan performance.
+The primary objective of the Dashboard is to provide a comprehensive and user-friendly interface for accessing vital loan data. 
+It will serve as a one-stop solution for users seeking detailed insights into loan portfolio, borrower profiles, and loan performance.
 Aim to visually represent critical loan-related metrics and trends using a variety of chart types
 
 Summary:
